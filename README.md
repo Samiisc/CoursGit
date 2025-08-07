@@ -49,10 +49,9 @@ git init
 git add .
 git commit -m "Premier commit"
 
-
-
-
-
+# Partager les fichiers locals en Ligne
+git push
+git push "Nom du repository"
 
 cours-github/
 ├── README.md                # Présentation du cours
